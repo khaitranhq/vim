@@ -1,5 +1,5 @@
 ## Basic
-
+https://www.youtube.com/watch?v=MRXwUUvqLBY&t=218s
 ### Install
 #### Dependencies
 node, python, clangd, yapf, pylint, tslint
